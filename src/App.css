@@ -1,0 +1,28 @@
+body{
+  overflow-x: hidden;
+  background-image: url('https://cdn.dribbble.com/users/2461751/screenshots/5265883/attachments/1142252/bmi-test-big.gif');
+  width: 100%;
+  background-position: center;
+}
+
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form-container{
+  background-color: honeydew;
+  width: 500px;
+}
+
+.height{
+  padding-right: 80px;
+}
+
+li{
+  text-align: justify;
+  list-style-type: none;
+  color: rebeccapurple;
+}
